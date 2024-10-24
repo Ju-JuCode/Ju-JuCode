@@ -1,0 +1,6 @@
+- 👋 Hi, I’m **Yusuf** (@Ju-JuCode)
+- 👀 I’m interested in software development, web technologies, and coding best practices.
+- 🌱 I’m currently learning more about algorithms, data structures, and software architecture.
+- 💞️ I’m looking to collaborate on innovative software projects and coding challenges.
+- 📫 How to reach me: ybhula02@gmail.com
+- ⚡ Fun fact: I’m an avid gamer!
